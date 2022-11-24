@@ -1,4 +1,4 @@
-# Project Name
+# School Catalog
 ## Project #38 from Codecademy's Full Stack Engineer Career Path
 ### By Anton Vlasenko (AntonV0)  
 ## Project Outline
